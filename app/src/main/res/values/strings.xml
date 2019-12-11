@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Encrypto</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="submit">Submit</string>
+    <string name="enter_input">Enter Input</string>
+</resources>
